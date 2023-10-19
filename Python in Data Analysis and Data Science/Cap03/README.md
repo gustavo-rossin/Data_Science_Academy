@@ -1,4 +1,5 @@
-Finalização do setup do ```Jupyter Notebook``` em darkmode com o [jupyterthemes](https://github.com/dunovank/jupyter-themes).
+- Finalização do setup do ```Jupyter Notebook``` em darkmode com o [jupyterthemes](https://github.com/dunovank/jupyter-themes).
+- Rápida relembrada de introdução a lógica de programação
 
 ### Escolhi as seguintes configs:
 
