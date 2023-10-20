@@ -10,6 +10,7 @@ jt -t onedork -fs 11  -tfs 14 -nfs 16 -ofs 10 -cellw 88% -T -kl -N
 ~~~
 
 Como ficou:
+<br>
 ![configuração onedork](https://raw.githubusercontent.com/gustavo-rossin/Data_Science_Academy/main/Python_in_Data_Analysis/Capitulos/Cap03/exemplo_config_onedork.png)
 
 Aprendi também a deixar os plots com o estilo darkmode, usando a própria lib jupyterthemes, importando o jtplot.
